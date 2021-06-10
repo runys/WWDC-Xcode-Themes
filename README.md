@@ -32,7 +32,7 @@ To install a Xcode Theme is simple:
 3. Paste the copy inside the folder.
 
 
-### Can't find the folder
+### I can't find the folder
 If you have never created a custom theme on Xcode before the folder ```~/Library/Developer/Xcode/UserData/FontAndColorThemes/``` will not exist.
 
 To create it you just need to duplicate one of the existing themes using the ```+``` button on the bottom left corner of the theme chooser interface, in Xcode Preferences.
@@ -43,6 +43,10 @@ To create it you just need to duplicate one of the existing themes using the ```
 
 image here
 
+**WWDC 2018**
+
+image here
+
 **WWDC 2019**
 
 image here
@@ -50,6 +54,3 @@ image here
 **WWDC 2020**
 
 image here
-
-## Fonts and Colors
-
