@@ -41,16 +41,16 @@ To create it you just need to duplicate one of the existing themes using the ```
 
 **WWDC 2017**
 
-[WWDC 2017 Example](/images/WWDC-2017-Example.png)
+![WWDC 2017 Example](/images/WWDC-2017-Example.png)
 
 **WWDC 2019**
 
-[WWDC 2019 Example](/images/WWDC-2019-Example.png)
+![WWDC 2019 Example](/images/WWDC-2019-Example.png)
 
 **WWDC 2020**
 
-[WWDC 2020 Example](/images/WWDC-2020-Example.png)
+![WWDC 2020 Example](/images/WWDC-2020-Example.png)
 
 **WWDC 2021**
 
-[WWDC 2021 Example](/images/WWDC-2021-Example.png)
+![WWDC 2021 Example](/images/WWDC-2021-Example.png)
